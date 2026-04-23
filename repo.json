@@ -30,5 +30,21 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Visland-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Visland-CN/latest.zip",
     "LastUpdate": "1776785291"
+  },
+  {
+    "Author": "kawaii, 汉化: Endfish",
+    "Name": "HyperboreaCN",
+    "InternalName": "HyperboreaCN",
+    "AssemblyVersion": "1.0.0.34",
+    "Description": "以相对安全的方式加载并探索任意区域，主要用于在原本难以抵达的地点拍摄 GPose。命令：/hyper 打开主界面，/hyper settings 打开设置，/hyper debug 打开调试，/hyper editor 打开编辑器，/hyper log 打开日志。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/endfish/Hyperborea-CN",
+    "DalamudApiLevel": 14,
+    "Punchline": "如果我们去陌迪翁监狱拍照呢？",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/HyperboreaCN/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/HyperboreaCN/latest.zip",
+    "LastUpdate": "1776948936"
   }
 ]
