@@ -25,6 +25,7 @@
     "RepoUrl": "https://github.com/endfish/ffxiv_visland_cn",
     "DalamudApiLevel": 14,
     "Punchline": "无人岛自动化工具（中文汉化版）。",
+    "IconUrl": "https://raw.githubusercontent.com/endfish/ffxiv_visland_cn/master/icon.png",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Visland-CN/latest.zip",

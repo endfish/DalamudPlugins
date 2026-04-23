@@ -23,3 +23,4 @@ https://raw.githubusercontent.com/endfish/DalamudPlugins/main/repo.json
 | --- | --- | --- | --- |
 | PosePad | 用按钮面板快速使用站姿、坐姿、躺姿等常用姿势，以及情感动作与表情，方便在 GPose、截图、演出和角色扮演场景中配合 Mod 使用。 | https://github.com/endfish/PosePad | 已发布 |
 | Visland-CN | 无人岛自动化工具的中文汉化版，包含中文界面与国服工坊排班导入适配。 | https://github.com/endfish/ffxiv_visland_cn | 已发布 |
+| HyperboreaCN | 以相对安全的方式加载并探索任意区域，主要用于在原本难以抵达的地点拍摄 GPose 的中文汉化版。 | https://github.com/endfish/Hyperborea-CN | 已发布 |
