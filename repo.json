@@ -42,6 +42,7 @@
     "RepoUrl": "https://github.com/endfish/Hyperborea-CN",
     "DalamudApiLevel": 14,
     "Punchline": "如果我们去陌迪翁监狱拍照呢？",
+    "IconUrl": "https://raw.githubusercontent.com/endfish/Hyperborea-CN/main/icon.png",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/HyperboreaCN/latest.zip",
