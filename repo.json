@@ -3,18 +3,18 @@
     "Author": "Endfish",
     "Name": "PosePad",
     "InternalName": "PosePad",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "Description": "用按钮面板快速使用站姿、坐姿、躺姿等常用姿势，以及情感动作与表情；并可选配合 Penumbra 读取当前启用的动作 Mod，在“Mod 动作”页签中直接一键使用。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/endfish/PosePad",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "Punchline": "快速使用常用姿势、表情动作与 Penumbra Mod 动作。",
     "IconUrl": "https://raw.githubusercontent.com/endfish/PosePad/main/icon.png",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/PosePad/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/PosePad/latest.zip",
-    "LastUpdate": "1776958299"
+    "LastUpdate": "1777723305"
   },
   {
     "Author": "veyn, croizat, Endfish (CN localization)",
