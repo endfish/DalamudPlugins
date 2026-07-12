@@ -49,5 +49,22 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/HyperboreaCN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/HyperboreaCN/latest.zip",
     "LastUpdate": "1777721072"
+  },
+  {
+    "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
+    "Name": "Brio-CN",
+    "InternalName": "Brio-CN",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/endfish/Brio-CN",
+    "DalamudApiLevel": 15,
+    "Punchline": "面向 GPose 的高级角色、姿势、动作与场景工具（简体中文版）。",
+    "IconUrl": "https://raw.githubusercontent.com/endfish/Brio-CN/zh-CN/Resources/Images/BrioIcon.png",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Brio-CN/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Brio-CN/latest.zip",
+    "LastUpdate": "1783858047"
   }
 ]
