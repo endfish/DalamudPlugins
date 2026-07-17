@@ -20,7 +20,7 @@
     "Author": "veyn, croizat, Endfish (CN localization)",
     "Name": "Visland-CN",
     "InternalName": "visland_cn",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.0.3.0",
     "Description": "自动处理采集、工坊排班等无人岛事务。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/endfish/ffxiv_visland_cn",
@@ -31,7 +31,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Visland-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Visland-CN/latest.zip",
-    "LastUpdate": "1777722374"
+    "LastUpdate": "1784298710"
   },
   {
     "Author": "kawaii, 汉化: Endfish",
