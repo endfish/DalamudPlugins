@@ -66,5 +66,22 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Brio-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Brio-CN/latest.zip",
     "LastUpdate": "1784044761"
+  },
+  {
+    "Author": "NightmareXIV, kawaii；简中维护：Endfish",
+    "Name": "AutoRetainer-CN",
+    "InternalName": "AutoRetainer",
+    "AssemblyVersion": "4.6.1.10",
+    "Description": "AutoRetainer 简体中文维护分支。自动收取并重新派遣雇员探险，也可管理部队潜水艇等探索任务。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/endfish/AutoRetainer-CN",
+    "DalamudApiLevel": 15,
+    "Punchline": "自动收取并重新派遣雇员探险与部队潜水艇探索。",
+    "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/AutoRetainer-CN/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/AutoRetainer-CN/latest.zip",
+    "LastUpdate": "1784339693"
   }
 ]
