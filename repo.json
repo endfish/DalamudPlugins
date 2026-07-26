@@ -71,7 +71,7 @@
     "Author": "NightmareXIV, kawaii；简中维护：Endfish",
     "Name": "AutoRetainer-CN",
     "InternalName": "AutoRetainer",
-    "AssemblyVersion": "4.6.1.10",
+    "AssemblyVersion": "4.6.2.0",
     "Description": "AutoRetainer 简体中文维护分支。自动收取并重新派遣雇员探险，也可管理部队潜水艇等探索任务。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/endfish/AutoRetainer-CN",
@@ -82,6 +82,23 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/AutoRetainer-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/AutoRetainer-CN/latest.zip",
-    "LastUpdate": "1784339693"
+    "LastUpdate": "1785051290"
+  },
+  {
+    "Author": "Endfish",
+    "Name": "雇员调价助手",
+    "InternalName": "RetainerRepricerCN",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "手动启动后，批量调整所选雇员已有的交易板挂单。每项均查询实时游戏内行情，排除自己全部雇员，支持暂停、继续和停止，并强制限制服务器操作频率。需要 AutoRetainer-CN 4.6.2.0 或兼容的调价桥接。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/endfish/RetainerRepricerCN",
+    "DalamudApiLevel": 15,
+    "Punchline": "按实时游戏内行情，安全批量调整所选雇员的在售价格。",
+    "IconUrl": "https://raw.githubusercontent.com/endfish/RetainerRepricerCN/main/icon.png",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/RetainerRepricerCN/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/RetainerRepricerCN/latest.zip",
+    "LastUpdate": "1785051290"
   }
 ]

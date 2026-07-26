@@ -26,3 +26,4 @@ https://raw.githubusercontent.com/endfish/DalamudPlugins/main/repo.json
 | HyperboreaCN | 以相对安全的方式加载并探索任意区域，主要用于在原本难以抵达的地点拍摄 GPose 的中文汉化版。 | https://github.com/endfish/Hyperborea-CN | 已发布 |
 | Brio-CN | 面向 GPose 的高级角色、骨骼姿势、动作、灯光、镜头与场景工具简体中文版，并包含常用姿势、动作 Mod 识别和世界模型实时预览。 | https://github.com/endfish/Brio-CN | 已发布 |
 | AutoRetainer-CN | 自动收取并重新派遣雇员探险，也可管理部队潜水艇等探索任务的简体中文维护版；与上游原版不能同时启用。 | https://github.com/endfish/AutoRetainer-CN | 已发布 |
+| RetainerRepricerCN | 根据游戏内实时行情批量调整所选雇员挂单，支持压价、限速、暂停和停止；需要 AutoRetainer-CN 4.6.2.0 或兼容的调价桥接。 | https://github.com/endfish/RetainerRepricerCN | 已发布 |
