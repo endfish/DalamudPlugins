@@ -37,10 +37,17 @@
     "Author": "kawaii, 汉化: Endfish",
     "Name": "HyperboreaCN",
     "InternalName": "HyperboreaCN",
-    "AssemblyVersion": "1.0.0.37",
+    "AssemblyVersion": "1.0.0.38",
     "Description": "以相对安全的方式加载并探索任意区域，主要用于在原本难以抵达的地点拍摄 GPose。\n\n/hyper -> 打开主界面\n/hyper settings -> 打开设置\n/hyper debug -> 打开调试\n/hyper editor -> 打开编辑器\n/hyper log -> 打开日志",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/endfish/Hyperborea-CN",
+    "Tags": [
+      "gpose",
+      "exploration",
+      "map",
+      "dungeon",
+      "utility"
+    ],
     "DalamudApiLevel": 15,
     "Punchline": "如果我们去陌迪翁监狱拍照呢？",
     "IconUrl": "https://raw.githubusercontent.com/endfish/Hyperborea-CN/main/icon.png",
@@ -48,13 +55,13 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/HyperboreaCN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/HyperboreaCN/latest.zip",
-    "LastUpdate": "1785215452"
+    "LastUpdate": "1789126594"
   },
   {
     "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
     "Name": "Brio-CN",
     "InternalName": "Brio-CN",
-    "AssemblyVersion": "1.0.8.0",
+    "AssemblyVersion": "1.0.9.0",
     "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/endfish/Brio-CN",
@@ -65,7 +72,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Brio-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Brio-CN/latest.zip",
-    "LastUpdate": "1787409008"
+    "LastUpdate": "1789126594"
   },
   {
     "Author": "NightmareXIV, kawaii；简中维护：Endfish",
