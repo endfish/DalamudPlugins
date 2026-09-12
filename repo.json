@@ -107,5 +107,31 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/RetainerRepricerCN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/RetainerRepricerCN/latest.zip",
     "LastUpdate": "1785051290"
+  },
+  {
+    "Author": "Ottermandias / Endfish（中文维护）",
+    "Name": "GatherBuddy-CN",
+    "InternalName": "GatherBuddy",
+    "AssemblyVersion": "3.8.11.3",
+    "Description": "查询采集物、鱼类、鱼饵和地点，追踪采集时间、天气与闹钟，管理采集分组、钓鱼记录及统计。\n提供简体中文界面与国服适配，由 Endfish 独立维护并持续同步 Ottermandias/GatherBuddy。\n保留 GatherBuddy 配置和 IPC 身份，不能与原版同时启用。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/endfish/GatherBuddy-CN",
+    "Tags": [
+      "采集",
+      "钓鱼",
+      "采矿",
+      "园艺",
+      "天气",
+      "闹钟",
+      "计时"
+    ],
+    "DalamudApiLevel": 15,
+    "Punchline": "采集、钓鱼、天气与闹钟的中文助手。",
+    "IconUrl": "https://raw.githubusercontent.com/endfish/GatherBuddy-CN/main/images/icon.png",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/GatherBuddy-CN/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/GatherBuddy-CN/latest.zip",
+    "LastUpdate": "1789192913"
   }
 ]
