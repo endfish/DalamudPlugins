@@ -133,5 +133,28 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/GatherBuddy-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/GatherBuddy-CN/latest.zip",
     "LastUpdate": "1789192913"
+  },
+  {
+    "Author": "Endfish",
+    "Name": "已收藏提示",
+    "InternalName": "CollectionGuard",
+    "AssemblyVersion": "0.2.2.0",
+    "Description": "打开收藏柜或幻化柜的存入列表后，插件会在装备行右缘显示非交互状态色条：金色表示同物品已存入幻化柜，橙红表示该部位已存在于已存套装中，浅蓝表示收藏柜已有。悬停时在游戏窗口外侧显示完整说明。插件只读取本地状态，不发送网络请求。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/endfish/CollectionGuard",
+    "Tags": [
+      "glamour",
+      "armoire",
+      "dresser",
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "Punchline": "在收藏柜与幻化柜界面直接标出已经存放过的装备，避免重复点击。",
+    "IconUrl": "https://raw.githubusercontent.com/endfish/CollectionGuard/main/icon.png",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/CollectionGuard/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/CollectionGuard/latest.zip",
+    "LastUpdate": "1789783405"
   }
 ]
