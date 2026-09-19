@@ -27,3 +27,5 @@ https://raw.githubusercontent.com/endfish/DalamudPlugins/main/repo.json
 | Brio-CN | 面向 GPose 的高级角色、骨骼姿势、动作、灯光、镜头与场景工具简体中文版，并包含常用姿势、动作 Mod 识别和世界模型实时预览。 | https://github.com/endfish/Brio-CN | 已发布 |
 | AutoRetainer-CN | 自动收取并重新派遣雇员探险，也可管理部队潜水艇等探索任务的简体中文维护版；与上游原版不能同时启用。 | https://github.com/endfish/AutoRetainer-CN | 已发布 |
 | RetainerRepricerCN | 根据游戏内实时行情批量调整所选雇员挂单，支持压价、限速、暂停和停止；需要 AutoRetainer-CN 4.6.2.0 或兼容的调价桥接。 | https://github.com/endfish/RetainerRepricerCN | 已发布 |
+| GatherBuddy-CN | 查询采集物、鱼类、鱼饵和地点，追踪采集时间、天气与闹钟的简体中文与国服适配版；与上游原版不能同时启用。 | https://github.com/endfish/GatherBuddy-CN | 已发布 |
+| CollectionGuard（已收藏提示） | 在收藏柜与幻化柜的存入列表中标出已经收藏的装备，避免重复存入；只读取本地游戏状态，不发送网络请求。 | https://github.com/endfish/CollectionGuard | 已发布 |
