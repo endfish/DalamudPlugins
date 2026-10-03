@@ -20,8 +20,9 @@
     "Author": "veyn, croizat, Endfish (CN localization)",
     "Name": "Visland-CN",
     "InternalName": "visland_cn",
-    "AssemblyVersion": "1.0.3.0",
+    "AssemblyVersion": "1.0.4.0",
     "Description": "自动处理采集、工坊排班等无人岛事务。",
+    "Changelog": "同步上游至 0.0.0.151，改进采集路线执行与界面，更新 AutoRetainer IPC 联动并移除旧 API 子模块依赖；保留简体中文界面与国服工坊排班导入。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/endfish/ffxiv_visland_cn",
     "DalamudApiLevel": 15,
@@ -31,14 +32,15 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Visland-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Visland-CN/latest.zip",
-    "LastUpdate": "1784298710"
+    "LastUpdate": "1790971334"
   },
   {
     "Author": "kawaii, 汉化: Endfish",
     "Name": "HyperboreaCN",
     "InternalName": "HyperboreaCN",
-    "AssemblyVersion": "1.0.0.38",
+    "AssemblyVersion": "1.0.1.1",
     "Description": "以相对安全的方式加载并探索任意区域，主要用于在原本难以抵达的地点拍摄 GPose。\n\n/hyper -> 打开主界面\n/hyper settings -> 打开设置\n/hyper debug -> 打开调试\n/hyper editor -> 打开编辑器\n/hyper log -> 打开日志",
+    "Changelog": "同步上游 1.0.1.1，更新区域数据、地图效果解析和 opcode；保留中文与国服配置兼容、探索会话恢复和副本导览；修复高级移动设置关闭时坐骑控制被错误禁用的问题。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/endfish/Hyperborea-CN",
     "Tags": [
@@ -55,16 +57,24 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/HyperboreaCN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/HyperboreaCN/latest.zip",
-    "LastUpdate": "1789126594"
+    "LastUpdate": "1790971289"
   },
   {
     "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
     "Name": "Brio-CN",
     "InternalName": "Brio-CN",
-    "AssemblyVersion": "1.0.9.0",
+    "AssemblyVersion": "1.0.10.0",
     "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
+    "Changelog": "同步上游 Brio 0.8.0.12；新增 NPC 多名称搜索与别名展示，相机及灯光预设支持相对当前玩家坐标；修复快捷键释放、GPose 叠加层、工具栏位置和自动保存提示；补齐中文界面并修复换行文案匹配，保留道具骨骼编辑与本地 GPose 增强。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/endfish/Brio-CN",
+    "Tags": [
+      "gpose",
+      "brio",
+      "posing",
+      "animation",
+      "中文"
+    ],
     "DalamudApiLevel": 15,
     "Punchline": "面向 GPose 的高级角色、姿势、动作与场景工具（简体中文版）。",
     "IconUrl": "https://raw.githubusercontent.com/endfish/Brio-CN/zh-CN/Resources/Images/BrioIcon.png",
@@ -72,14 +82,15 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Brio-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Brio-CN/latest.zip",
-    "LastUpdate": "1789126594"
+    "LastUpdate": "1790971380"
   },
   {
     "Author": "NightmareXIV, kawaii；简中维护：Endfish",
     "Name": "AutoRetainer-CN",
     "InternalName": "AutoRetainer",
-    "AssemblyVersion": "4.6.2.0",
+    "AssemblyVersion": "4.6.2.1",
     "Description": "AutoRetainer 简体中文维护分支。自动收取并重新派遣雇员探险，也可管理部队潜水艇等探索任务。",
+    "Changelog": "同步上游 4.6.1.26，新增单轮多角色模式、异常提示及潜水艇派遣保护；补齐中文界面并防止空游戏文本误匹配；保留 RetainerPricing IPC v1 与调价互斥，保护调价任务不被上游恢复流程抢占。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/endfish/AutoRetainer-CN",
     "DalamudApiLevel": 15,
@@ -89,7 +100,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/AutoRetainer-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/AutoRetainer-CN/latest.zip",
-    "LastUpdate": "1785051290"
+    "LastUpdate": "1790971304"
   },
   {
     "Author": "Endfish",
