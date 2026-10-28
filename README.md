@@ -29,3 +29,4 @@ https://raw.githubusercontent.com/endfish/DalamudPlugins/main/repo.json
 | RetainerRepricerCN | 1.0.0.0 | 根据游戏内实时行情批量调整所选雇员挂单，支持压价、限速、暂停和停止；需要 AutoRetainer-CN 4.6.2.0 或兼容的调价桥接。 | https://github.com/endfish/RetainerRepricerCN | 已发布 |
 | GatherBuddy-CN | 3.8.11.3 | 查询采集物、鱼类、鱼饵和地点，追踪采集时间、天气与闹钟的简体中文与国服适配版；与上游原版不能同时启用。 | https://github.com/endfish/GatherBuddy-CN | 已发布 |
 | CollectionGuard（已收藏提示） | 0.2.2.0 | 在收藏柜与幻化柜的存入列表中标出已经收藏的装备，避免重复存入；只读取本地游戏状态，不发送网络请求。 | https://github.com/endfish/CollectionGuard | 已发布 |
+| KeyboundTab（魔光键影 Tab 补全） | 1.0.0.0 | 手动按快捷键填入当前可见中文词条，支持前缀匹配、连续换选和读条加权；由玩家自行按 Enter 发送，当前适配国服 2026.10.06.0000.0000。 | https://github.com/endfish/KeyboundTab | 已发布 |

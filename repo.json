@@ -167,5 +167,28 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/CollectionGuard/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/CollectionGuard/latest.zip",
     "LastUpdate": "1789783405"
+  },
+  {
+    "Author": "Endfish",
+    "Name": "魔光键影 Tab 补全",
+    "InternalName": "KeyboundTab",
+    "AssemblyVersion": "1.0.0.0",
+    "Punchline": "手动按快捷键填入当前词条，由自己回车发送。",
+    "Description": "魔光键影的手动词条补全工具，支持自定义快捷键、前缀匹配和连续换选。按键只填入当前可见的完整中文词条，由玩家自己按 Enter 发送；读条词条加权但保留其他候选。适配国服游戏版本 2026.10.06.0000.0000，未适配版本自动关闭补全。使用 /kbt 打开设置，/kbt status 查看状态。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/endfish/KeyboundTab",
+    "IconUrl": "https://raw.githubusercontent.com/endfish/KeyboundTab/main/icon.png",
+    "DalamudApiLevel": 15,
+    "Changelog": "首个正式版：手动快捷键补全当前可见中文词条，支持前缀匹配、连续换选、读条加权与自定义组合键；保留普通及绿墙词条候选，不自动发送。",
+    "Tags": [
+      "gold saucer",
+      "typing",
+      "utility"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/KeyboundTab/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/KeyboundTab/latest.zip",
+    "LastUpdate": "1793164015"
   }
 ]
