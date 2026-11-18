@@ -63,9 +63,9 @@
     "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
     "Name": "Brio-CN",
     "InternalName": "Brio-CN",
-    "AssemblyVersion": "1.0.10.0",
-    "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
-    "Changelog": "同步上游 Brio 0.8.0.12；新增 NPC 多名称搜索与别名展示，相机及灯光预设支持相对当前玩家坐标；修复快捷键释放、GPose 叠加层、工具栏位置和自动保存提示；补齐中文界面并修复换行文案匹配，保留道具骨骼编辑与本地 GPose 增强。",
+    "AssemblyVersion": "1.0.11.0",
+    "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含表情编辑器、带预览的姿势管理器、常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
+    "Changelog": "在角色面板加入表情编辑器和姿势管理器，可从当前帧调整表情，支持伸舌、扩大调节范围，以及按需生成姿势预览。修复骨骼旋转环拖拽跳变，改进跨种族动作加载与失败处理。默认姿势按类别固定排序，动作选择器可识别当前角色生效的 Penumbra 模组及对应动作编号。",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/endfish/Brio-CN",
     "Tags": [
@@ -82,7 +82,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Brio-CN/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/endfish/DalamudPlugins/main/Brio-CN/latest.zip",
-    "LastUpdate": "1790971380"
+    "LastUpdate": "1794944514"
   },
   {
     "Author": "NightmareXIV, kawaii；简中维护：Endfish",
